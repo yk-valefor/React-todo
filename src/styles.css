@@ -17,7 +17,7 @@ button {
 }
 
 button:hover {
-  background-color: #ff9b6a;
+  background-color: #fecd1a;
   color: #fff;
   cursor: pointer;
 }
@@ -27,7 +27,7 @@ li {
 }
 
 .input-area {
-  background-color: #161e54;
+  background-color: #120078;
   width: 400px;
   height: 30px;
   padding: 8px;
@@ -36,7 +36,7 @@ li {
 }
 
 .uncomplete-area {
-  background-color: #88e0ef;
+  background-color: #9d0191;
   width: 400px;
   min-height: 200px;
   padding: 8px;
@@ -45,7 +45,7 @@ li {
 }
 
 .complete-area {
-  background-color: #ff5151;
+  background-color: #fd3a69;
   width: 400px;
   min-height: 200px;
   padding: 8px;
