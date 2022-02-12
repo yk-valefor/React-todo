@@ -1,7 +1,7 @@
 # React-todo
 
 Todo created by React.  
-Please show [this page.]()
+Please show [this page.](https://yk-valefor.github.io/csb-qtzw6/)
 ## Overview
 React practice
 
@@ -10,7 +10,7 @@ React practice
 - Chrome
 
 ## Features
-I created something similar to this by JavaScript.
+I created [something similar to this by JavaScript.](https://github.com/yk-valefor/JavaScript-todo)
 
 ## Reference
 [モダン JavaScript の基礎から始める挫折しないための React 入門](https://www.udemy.com/share/103Fxl3@tWeXdwE94W8r3lVz3b8930KGi2tOSZhqJppCegNxc_K1Xi3OlCMxO85IVPL5Fv5E-w==/)
